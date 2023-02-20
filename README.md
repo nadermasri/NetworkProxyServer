@@ -6,6 +6,10 @@ https://docs.python.org/3/library/time.html
 
 https://docs.python.org/3/library/uuid.html
 
+https://pypi.org/project/requests/
+
+https://docs.python.org/3/library/socket.html
+
 # Networks
 #This is the readme file of assignment1 for Networks Course:
 #This code follows the below instructions:
