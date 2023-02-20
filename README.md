@@ -1,7 +1,7 @@
 Resources:
 
 https://www.geeksforgeeks.org/extracting-mac-address-using-python/#:~:text=Method%201%20%3A%20using%20mac%20module,use%20getmac%20module%20of%20Python.&text=Method%202%20%3A%20Using%20uuid.,is%20defined%20in%20uuid%20module.
-
+https://docs.python.org/3/library/time.html
 
 
 # Networks
