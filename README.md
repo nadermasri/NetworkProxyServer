@@ -1,12 +1,8 @@
-# Networks
-This is the first assignment of EECE350 done by Nader Al Masri.
-The course is Given by Dr. Ayman Tajeddine, and Dr. Imad Al Hajj. 
-
-# The assignment Objectives are:
+# The  Objectives are:
 To practice socket programming by developing a client-server application in Python.
 Description:
 Download the latest version of Python 3.11.1 for windows and consult the python code
-example posted on Moodle.
+example.
 Also read RFC 9110 – HTTP Semantics (https://www.rfc-editor.org/rfc/rfc9110) to understand
 the http protocol and its messages. We are most interested in the HTTP Get method.
 This is a python program for a client and a proxy server to access http webpages.
